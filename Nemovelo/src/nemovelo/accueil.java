@@ -186,6 +186,7 @@ public class accueil extends javax.swing.JFrame {
            
 
         this.dispose();
+        
 
     }//GEN-LAST:event_jButton1ActionPerformed
 
