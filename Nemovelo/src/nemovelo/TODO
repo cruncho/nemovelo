@@ -1,0 +1,7 @@
+dans administrateur mettre la bonne valeur dans fonction
+
+
+les vues appellent les vues
+
+créer un class current user qui sera singleton et si on se deconnecte le mettre a nul
+
