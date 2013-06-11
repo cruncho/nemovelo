@@ -24,12 +24,13 @@ public class Main {
         
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new accueil().setVisible(true);
+                new nemovelo.Vues.accueil().setVisible(true);
             }
         });
     }
 
 
 }
+
 
 
